@@ -25,6 +25,15 @@ div{
 #starter{
     position: relative;
 }
+#flash{
+    height:80%;
+    min-width: 300px;
+    max-width: 50%;
+    display:none;
+}
 #dashboard{
+    display:none;
+}
+#infos{
     display:none;
 }
